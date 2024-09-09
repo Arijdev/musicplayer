@@ -15,7 +15,7 @@ const tracks = [
     {
         title: 'Khamoshiyan',
         artist: 'by Arijit Singh',
-        src: 'khamoshiyan.mp3',
+        src: 'Khamoshiyan.mp3',
         thumbnail: 'khamo.jpeg'
     },
     {
@@ -33,7 +33,7 @@ const tracks = [
     {
         title: 'Baatein Ye Kabhi Na',
         artist: 'by Arijit Singh and Jeet Ganguly',
-        src: 'baatein Ye.mp3',
+        src: 'Baatein Ye.mp3',
         thumbnail: 'baatein.jpeg'
     }
    
